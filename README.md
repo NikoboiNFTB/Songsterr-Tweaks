@@ -1,19 +1,20 @@
-# Songsterr-Tweaks
+# Songsterr Tweaks
 
-My collection of tweaks for [Songsterr](https://www.songsterr.com).  
+My collection of tweaks for [Songsterr](https://www.songsterr.com).
 
-## Scripts included
+## Extensions
+
+### Search on Songsterr ([install](https://addons.mozilla.org/en-US/firefox/addon/search-on-songsterr/))
+
+Adds "Search on Songsterr" to the right click context menu.
+
+## Userscripts
 
 >> Note: One-click-installation needs Violentmonkey/Tampermonkey installed (and set up for Chromium)
 
-1. **Auto-Continue Playback ([install](https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/auto-continue-1.2.user.js))**
-   - Automatically clicks **"Continue with interruptions"** button when the prompt appears, so playback never pauses.  
-So fast you can barely tell it's pausing.  
+### Auto-Continue Playback (install)
 
-## Extensions included
-
-1. **Search on Songsterr ([install](https://addons.mozilla.org/en-US/firefox/addon/search-on-songsterr/))**
-   - Adds "Search on Songsterr" to the right click context menu.
+Deprecated. The Songsterr website seems to have been updated, and I can't seem to figure out how to automatically click anymore. You win.
 
 ## Contributing
 
