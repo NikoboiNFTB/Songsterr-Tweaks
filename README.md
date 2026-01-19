@@ -30,4 +30,4 @@ This project is licenced under the GNU General Public License V3. See [LICENSE](
 
 ## Legal Disclaimer
 
-Auto Continue Playback works like an ad-blocker by automatically closing popups and does not unlock or bypass any paid features. We do not endorse bypassing paid features, nor do we encourage violating any website’s terms of service.
+**Auto Continue Playback** works like an ad-blocker by automatically closing popups and does not unlock or bypass any paid features. We do not endorse bypassing paid features, nor do we encourage violating any website’s terms of service.
