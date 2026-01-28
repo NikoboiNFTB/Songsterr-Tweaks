@@ -10,11 +10,9 @@ Adds "Search on Songsterr" to the right click context menu.
 
 ## Userscripts
 
->> Note: One-click-installation needs Violentmonkey/Tampermonkey installed (and set up for Chromium)
-
 ### Auto-Continue Playback (install)
 
-Deprecated. The Songsterr website seems to have been updated, and I can't seem to figure out how to automatically click anymore. You win.
+Deprecated. The Songsterr website seems to have been updated, and I can't seem to figure out how to automatically click anymore. You win, Songsterr.
 
 ## Contributing
 
