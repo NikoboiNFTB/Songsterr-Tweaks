@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Search on Songsterr",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Adds a 'Search on Songsterr' option to the context menu for highlighted text.",
   "permissions": [
     "contextMenus",
@@ -17,7 +17,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "songsterr-search@nikoboi.dev",
+      "id": "{5e45fdc4-db92-4cf7-a615-0c0321b366a1}",
       "data_collection_permissions": {
         "required": [
           "none"
