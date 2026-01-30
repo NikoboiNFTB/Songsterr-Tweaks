@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Search on Songsterr",
+  "version": "1.0",
+  "description": "Adds a 'Search on Songsterr' option to the context menu for highlighted text.",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "512": "icons/songsterr512.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "songsterr-search@nikoboi.dev",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
+}
