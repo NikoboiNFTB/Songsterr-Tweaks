@@ -1,8 +1,6 @@
-
-! --- Songsterr Premium Ad-Block by Nikoboi ---
-
+! --- Songsterr Premium Ad-Block by Nikoboi --- !
+! "Upgrade to Plus for Pause-free sync with original audio"
 www.songsterr.com###showroom_header_desktop
-
+! Banner ad
 www.songsterr.com###showroom
-
-! --- Songsterr Premium Ad-Block by Nikoboi ---
+! --- Songsterr Premium Ad-Block by Nikoboi --- !
