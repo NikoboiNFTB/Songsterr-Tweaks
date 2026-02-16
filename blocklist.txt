@@ -1,6 +1,24 @@
-! --- Songsterr Premium Ad-Block by Nikoboi --- !
+! Title: Songsterr Filters by Nikoboi
+! Description: Removes premium ads.
+! Homepage: https://nikoboi.dev/
+! Author: Nikoboi
+! License: GNU General Public License v3.0 | https://github.com/NikoboiNFTB/Songsterr-Tweaks/blob/main/LICENSE
+! Source: https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/blocklist.txt
+! Issues: https://github.com/NikoboiNFTB/Songsterr-Tweaks/issues
+! Pull Requests: https://github.com/NikoboiNFTB/Songsterr-Tweaks/pulls
+! Last updated: 2026-02-16 11:51 UTC+02:00
+! Expires: 7 days
+
+! ========================================
+! Start of Filters
+! ========================================
+
 ! "Upgrade to Plus for Pause-free sync with original audio"
 www.songsterr.com###showroom_header_desktop
+
 ! Banner ad
 www.songsterr.com###showroom
-! --- Songsterr Premium Ad-Block by Nikoboi --- !
+
+! ========================================
+! End of Filters
+! ========================================
