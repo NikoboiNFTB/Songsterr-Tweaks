@@ -6,7 +6,7 @@
 ! Source: https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/blocklist.txt
 ! Issues: https://github.com/NikoboiNFTB/Songsterr-Tweaks/issues
 ! Pull Requests: https://github.com/NikoboiNFTB/Songsterr-Tweaks/pulls
-! Last updated: 2026-02-16 11:51 UTC+02:00
+! Last updated: 2026-02-16 11:52 UTC+02:00
 ! Expires: 7 days
 
 ! ========================================
