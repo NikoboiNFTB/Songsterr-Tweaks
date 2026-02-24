@@ -3,10 +3,10 @@
 ! Homepage: https://nikoboi.dev/
 ! Author: Nikoboi
 ! License: GNU General Public License v3.0 | https://github.com/NikoboiNFTB/Songsterr-Tweaks/blob/main/LICENSE
-! Source: https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/blocklist.txt
+! Source: https://songsterr.nikoboi.dev/blocklist.txt
 ! Issues: https://github.com/NikoboiNFTB/Songsterr-Tweaks/issues
 ! Pull Requests: https://github.com/NikoboiNFTB/Songsterr-Tweaks/pulls
-! Last updated: 2026-02-16 11:52 UTC+02:00
+! Last updated: 2026-02-24 21:21 UTC+02:00
 ! Expires: 7 days
 
 ! ========================================
