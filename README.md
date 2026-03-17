@@ -19,7 +19,7 @@ Deprecated. The Songsterr website seems to have been updated, and I can't seem t
 Blocks premium ads. Here's the source link:
 
 ```text
-https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/blocklist.txt
+https://songsterr.nikoboi.dev/blocklist.txt
 ```
 
 ### uBlock Origin add tutorial
