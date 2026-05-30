@@ -6,7 +6,7 @@
 ! Source: https://songsterr.nikoboi.dev/blocklist.txt
 ! Issues: https://github.com/NikoboiNFTB/Songsterr-Tweaks/issues
 ! Pull Requests: https://github.com/NikoboiNFTB/Songsterr-Tweaks/pulls
-! Last updated: 2026-02-24 21:21 UTC+02:00
+! Last updated: 2026-05-30 16:32 UTC+03:00
 ! Expires: 7 days
 
 ! ========================================
@@ -15,6 +15,9 @@
 
 ! "Upgrade to Plus for Pause-free sync with original audio"
 www.songsterr.com###showroom_header_desktop
+
+! "...to Loop and Slow down with just one click" ad in search
+www.songsterr.com###showroom_panel
 
 ! Banner ad
 www.songsterr.com###showroom
