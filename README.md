@@ -10,9 +10,9 @@ Adds "Search on Songsterr" to the right click context menu.
 
 ## Userscripts
 
-### Auto-Continue Playback (install)
+### Auto-Continue Playback ([install](https://github.com/NikoboiNFTB/Songsterr-Tweaks/raw/refs/heads/main/auto-continue-playback.user.js))
 
-Deprecated. The Songsterr website seems to have been updated, and I can't seem to figure out how to automatically click anymore. You win, Songsterr.
+Automatically continues playback when that pause thing pops up.
 
 ## Blocklist
 
